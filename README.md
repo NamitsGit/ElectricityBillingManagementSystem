@@ -1,0 +1,2 @@
+# ElectricityBillingManagementSystem
+This is a begginer-level mini-project which is modelled to represent the Database aspects of the Electricity Supply Board/Organization. It uses tools and technologies like PHPMyAdmin(Maria DB) as a Database. For the front-end it utilizes the components from Bootstrap v5.0, HTML and CSS code written in different PHP pages. *********More info in the README file*********
